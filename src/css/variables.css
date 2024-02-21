@@ -1,0 +1,6 @@
+:root{
+    --font-blue: hsl(220, 98%, 61%);
+    --check-background: linear-gradient hsl(192, 100%, 67%) to hsl(280, 87%, 65%);
+    --very-dark-blue: hsl(235, 21%, 11%);
+    --very-dark-desatured-blue: hsl(235, 24%, 19%);
+}
